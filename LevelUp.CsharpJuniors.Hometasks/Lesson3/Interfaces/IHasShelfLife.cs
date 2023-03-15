@@ -2,6 +2,6 @@
 {
     internal interface IHasShelfLife
     {
-        void ExpirationDate(DateTime expirationData);
+        void PrintExpirationDate(DateTime expirationData);
     }
 }
